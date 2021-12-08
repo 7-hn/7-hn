@@ -10,6 +10,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://github.com/jcode-n/jcode-n/blob/main/webstorm.png"></code>
 
+😉 **我的自学之路:**
+<details style="cursor: pointer;">
+  <summary>2019年</summary>
+  <div style="width: 98%; margin: 0 auto">
+    <ul>
+      <li>9月入坑某马开始暗无天日的前端学习。</li>
+    </ul>
+  </div>
+</details>
+
 <!--
 **jcode-n/jcode-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
