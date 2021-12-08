@@ -1,10 +1,19 @@
-### Hi there 👋
+### Hi 我是毕了业就退休程序员 👋
+
+- 📫 我的邮箱: [1225250455@qq.com](mailto:1225250455@qq.com);
+- 📝 [我的掘金(开源社区)主页](https://juejin.cn/user/3491704662925992)
+
+**技术栈 与 开发工具:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://github.com/jcode-n/jcode-n/main/webstorm.png"></code>
 
 <!--
 **jcode-n/jcode-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
