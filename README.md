@@ -4,14 +4,14 @@
 - 📝 [我的掘金(开源社区)主页](https://juejin.cn/user/3491704662925992)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/pusheencode.gif" />
-**技术栈 与 开发工具:**
 
+**技术栈 与 开发工具:**
 <code><img height="20" src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/webstorm.png"></code>
 
-**learning:**
+**学习中:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/typescript.png"></code>
 
