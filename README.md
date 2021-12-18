@@ -1,10 +1,8 @@
 ### Hi 我是毕了业就退休程序员 👋
-
 ---
 - 📫 我的邮箱: [1225250455@qq.com](mailto:1225250455@qq.com)
 - 📝 [我的掘金(开源社区)主页](https://juejin.cn/user/3491704662925992)
 ---
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/pusheencode.gif" />
 **技术栈 与 开发工具:**
 
