@@ -1,7 +1,8 @@
 ### Hi 我是毕了业就退休程序员 👋
-
 - 📫 我的邮箱: [1225250455@qq.com](mailto:1225250455@qq.com)
 - 📝 [我的掘金(开源社区)主页](https://juejin.cn/user/3491704662925992)
+
+<img src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/js.png" width="50%" style="float: right; max-width: 300px">
 
 **技术栈 与 开发工具:**
 
@@ -14,7 +15,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/typescript.png"></code>
 
-😉 **我的自学之路:**
+😉 **我的前端之路:**
 <details style="cursor: pointer;">
   <summary>2019年</summary>
     <div style="width: 98%; margin: 0 auto">
@@ -44,6 +45,32 @@
         <li>2月开始接触TypeScript，由于公司没有使用，目前也只是了解持续学习中，并在自己的demo中使用</li>
       </ul>
     </div>
+</details>
+
+🤔 **我的文章:**
+<details style="cursor: pointer;">
+  <summary>vue实战、踩坑之旅</summary>
+  <div style="width: 98%; margin: 0 auto">
+    <ul>
+        <li><a href="https://juejin.cn/post/7042492559226044446">vue父子组件的生命周期加载顺序，EventBus(事件总线)在父子组件中的调用时机</a></li>
+        <li><a href="https://juejin.cn/post/7041467154171953188">项目中vue-quill-editor富文本插件没有表格，用wangEditor插件代替遇到的坑</a></li>
+        <li><a href="https://juejin.cn/post/7033299831858659365">Vue + ElementUI 超大表单处理</a></li>
+        <li><a href="https://juejin.cn/post/6904180986397851656">vue中金额格式化 失去焦点格式化 获得焦点去格式化 全局注册</a></li>
+        <li><a href="https://juejin.cn/post/6904178571820924941">vue中js获取今天、上一年、下一年(并全局注册)</a></li>
+        <li><a href="https://juejin.cn/post/6901255970043887624">关于vue-pdf无法显示pdf合同动态填充内容</a></li>
+        <li><a href="https://juejin.cn/post/6900841755432714248">ElementUI 表格操作列错位问题</a></li>
+        <li><a href="https://juejin.cn/post/6884448027403419662">教你简单用实现MVVM响应式原理（下） - MVVM的实现</a></li>
+        <li><a href="https://juejin.cn/post/6884442160158998542">[教你简单用实现MVVM响应式原理（上） - Object.defineProperty的用法]</a></li>
+    </ul>
+  </div>
+</details>
+<details style="cursor: pointer;">
+  <summary>JS实战总结</summary>
+  <div style="width: 98%; margin: 0 auto">
+    <ul>
+        <li><a href="https://juejin.cn/post/7041858551538515981">JS循环中使用async、await的正确姿势</a></li>
+    </ul>
+  </div>
 </details>
 
 <!--
