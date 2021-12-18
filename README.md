@@ -1,6 +1,6 @@
 ### Hi 我是毕了业就退休程序员 👋
 
-<img align="right" width="60" src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/image.png" />
+<img align="right" style="border-radius: 60px" width="60" src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/image.png" />
 
 
 - 📫 我的邮箱: [1225250455@qq.com](mailto:1225250455@qq.com)
