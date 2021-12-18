@@ -2,8 +2,6 @@
 - 📫 我的邮箱: [1225250455@qq.com](mailto:1225250455@qq.com)
 - 📝 [我的掘金(开源社区)主页](https://juejin.cn/user/3491704662925992)
 
-<img src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/js.png" width="50%" style="float: right; max-width: 300px">
-
 **技术栈 与 开发工具:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/javascript.png"></code>
