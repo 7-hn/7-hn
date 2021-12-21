@@ -19,7 +19,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/jcode-n/jcode-n/main/typescript.png"></code>
 
-😉 **我的前端之路:**
+<!--😉 **我的前端之路:**
 <details style="cursor: pointer;">
   <summary>2019年</summary>
     <div style="width: 98%; margin: 0 auto">
@@ -49,7 +49,7 @@
         <li>2月开始接触TypeScript，由于公司没有使用，目前也只是了解持续学习中，并在自己的demo中使用</li>
       </ul>
     </div>
-</details>
+</details>-->
 
 🤔 **我的文章:**
 <details style="cursor: pointer;">
